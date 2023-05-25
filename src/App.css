@@ -1,0 +1,22 @@
+.mycontainer {
+  max-width: 400px !important;
+}
+h5 {
+  text-align: center;
+  font-weight: 600;
+}
+
+.input-field input {
+  border-bottom: 1px solid black !important;
+  box-shadow: none !important;
+}
+.logout {
+  color: white;
+  background: none;
+  border: none;
+  height: 62.5px;
+  cursor: pointer;
+}
+.logout:hover {
+  background: darkslateblue;
+}
